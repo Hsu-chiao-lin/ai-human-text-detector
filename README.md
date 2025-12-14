@@ -8,7 +8,7 @@ This project implements a simple AI-generated text detector using handcrafted li
 - Logistic Regression classifier (scikit-learn)
 
 ## Demo
-Streamlit App: (請貼上你的 Streamlit Cloud 連結)
+Streamlit App: https://aihumandetector.streamlit.app/
 
 ## How to Run
 ```bash
